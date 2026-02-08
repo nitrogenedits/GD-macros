@@ -5,9 +5,9 @@ pause the level it's designed for, open xdBot (small resume button in the corner
 # WHAT VERSION OF GEOMETRY DASH DO I NEED?
 2.2074
 # WHAT FPS BYPASS DO I NEED?
-the macros were made at 5000 FPS (**NOT** physics bypass). you may set it either through mega hack / eclipse, or the GD settings menu.
+the macros were made at 180 FPS (**NOT** physics bypass). you may set it either through mega hack / eclipse, or the GD settings menu.
 # EXCEPTIONS AS TO THE FPS BYPASS
-Nhelv (60 fps)
+Nhelv (60 or 240 fps, i used physics bypass)
 
 
 
