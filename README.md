@@ -1,6 +1,6 @@
 # GD-macros
 > [!WARNING]
-> the ORBIT macro is broken at around ~81%, i recommend using noclip and seed 18446744072004514865 to get around it.
+> the ORBIT macro is broken at around ~81% or may only work on 240hz, i recommend using noclip and seed 18446744072004514865 to get around it.
 
 
 use them with xdBot if you have Geode, or if you think it's not legit, beat the level on your own. :)
