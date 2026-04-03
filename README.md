@@ -3,6 +3,8 @@
 > the ORBIT macro is broken at around ~85% or may only work on 240hz, i recommend using noclip and seed 18446744072004514865 to get around it.
 >
 > the Jigsaw macro is broken at the last click - i recommend using noclip or shifting the frame yourself.
+>
+> the Silent Acropolis macro is broken at 240fps, 360fps, 480fps and 540fps - i recommend using noclip.
 
 
 use them with xdBot if you have Geode, or if you think it's not legit, beat the level on your own. :)
