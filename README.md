@@ -5,6 +5,8 @@
 > the Jigsaw macro is broken at the last click - i recommend using noclip or shifting the frame yourself.
 >
 > the Silent Acropolis macro is broken at 240fps, 360fps, 480fps and 540fps - i recommend using noclip.
+>
+> the GLUNGUS ADVENTURES macro breaks when playing a minigame. oh and btw the seed is 42 as always
 
 
 use them with xdBot if you have Geode, or if you think it's not legit, beat the level on your own. :)
